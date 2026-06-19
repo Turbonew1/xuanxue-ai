@@ -101,19 +101,19 @@ python -m xuanxue.core.cli methods
 
 ## 📊 Supported Methods (11 Total)
 
-| Method | Engine | Function | Required Info |
-|--------|--------|----------|---------------|
-| **BaZi** | `bazi_engine` | Four Pillars, Ten Gods, Hidden Stems, Five Elements, Luck Pillars | Birth time, Gender |
-| **Zi Wei** | `ziwei_engine` | 12 Palaces, Main Stars, Four Transformations, Decades | Birth time, Gender |
-| **Qi Men** | `qimen_engine` | 9 Palaces, 8 Gates, 9 Stars, 8 Gods | Birth time |
-| **Cheng Gu** | `chenggu_engine` | Bone Weight calculation, Verse interpretation | Birth time |
-| **Numerology** | `numerology_engine` | Five Grid analysis, Life Number | Name, Birth time |
-| **Mei Hua** | `meihua_engine` | Time-based hexagram, Body-Use relationship | Birth time |
-| **Liu Yao** | `liuyao_engine` | Six Lines, World/Response positions, Six Spirits | Birth time |
-| **Liu Ren** | `liuren_engine` | Month General + Hour, Four Lessons | Birth time |
-| **Jin Kou** | `jinkou_engine` | Four Pillars lesson, Five Element analysis | Birth time |
-| **Western** | `western_engine` | Sun/Moon/Rising signs, Four Elements | Birth time |
-| **Vedic** | `vedic_engine` | Sidereal zodiac, Nakshatra, Tithi | Birth time |
+| Method | Function | Required Info |
+|--------|----------|---------------|
+| **BaZi** | Four Pillars, Ten Gods, Hidden Stems, Five Elements, Luck Pillars | Birth time, Gender |
+| **Zi Wei** | 12 Palaces, Main Stars, Four Transformations, Decades | Birth time, Gender |
+| **Qi Men** | 9 Palaces, 8 Gates, 9 Stars, 8 Gods | Birth time |
+| **Cheng Gu** | Bone Weight calculation, Verse interpretation | Birth time |
+| **Numerology** | Five Grid analysis, Life Number | Name, Birth time |
+| **Mei Hua** | Time-based hexagram, Body-Use relationship | Birth time |
+| **Liu Yao** | Six Lines, World/Response positions, Six Spirits | Birth time |
+| **Liu Ren** | Month General + Hour, Four Lessons | Birth time |
+| **Jin Kou** | Four Pillars lesson, Five Element analysis | Birth time |
+| **Western** | Sun/Moon/Rising signs, Four Elements | Birth time |
+| **Vedic** | Sidereal zodiac, Nakshatra, Tithi | Birth time |
 
 ---
 
